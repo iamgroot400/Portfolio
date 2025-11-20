@@ -41,7 +41,7 @@ export default function Hero() {
           </div>
 
           <div className="mt-6 flex items-center gap-4">
-            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-white">
+            <a href="https://www.linkedin.com/in/aashikkhatri" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-white">
               <Linkedin />
             </a>
             <a href="https://github.com" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-white">
